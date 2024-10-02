@@ -1,5 +1,4 @@
-### **Manual de Instruções 
-– Uso de Marcadores no Modo Custom para Criação Musical com IA Suno**
+### **Manual de Instruções - Uso de Marcadores no Modo Custom para Criação Musical com IA Suno**
 Este manual contém orientações detalhadas para o uso de marcadores no **modo custom** da ferramenta **Suno**, onde você pode fornecer a letra da música diretamente e indicar instruções adicionais para a IA durante a criação musical. 
 --- 
 ### **1. Marcadores Utilizáveis e Suas Funções** 
@@ -44,6 +43,7 @@ Você pode utilizar uma variedade de marcadores para fornecer detalhes sobre o e
 - **Função**: Para destacar efeitos ou sons específicos que devem ser inseridos em certos momentos da música. 
 - **Uso**: Para sugerir a inclusão de efeitos ou sons especiais. 
 - **Exemplo**: ``` Incluir um @efeito eletrônico durante o refrão. ``` 
+
 ### **2. Organização e Estrutura do Prompt no Modo Custom**
 Para garantir que a IA compreenda suas instruções corretamente, organize o seu prompt de forma clara. Aqui estão algumas dicas para estruturar o texto fornecido à IA: 
 #### **2.1 Instruções Antes da Letra** 
@@ -51,11 +51,11 @@ Para garantir que a IA compreenda suas instruções corretamente, organize o seu
 - **Exemplo**: ``` Crie uma música estilo baião, alegre e dançante. Incluir batidas marcantes e instrumentos regionais, como acordeão e zabumba. ``` 
 #### **2.2 Instruções Dentro da Letra**
 Os marcadores podem ser inseridos diretamente na letra da música para instruções mais específicas em certos pontos.
-**Exemplo**: ``` Na beira do rio eu te encontrei (melodia suave) Dançando sob o luar tão bonito [refrão mais acelerado] ``` 
+- **Exemplo**: ``` Na beira do rio eu te encontrei (melodia suave) Dançando sob o luar tão bonito [refrão mais acelerado] ``` 
 #### **2.3 Instruções Após a Letra**
-Caso precise dar mais detalhes ou ajustes finais, você pode incluir instruções no final da letra para garantir que a IA entenda sua intenção. 
-**Exemplo**: ``` Após o último verso, aumentar o ritmo com um solo de guitarra rápida. ```
----
+Caso precise dar mais detalhes ou ajustes finais, você pode incluir instruções no final da letra para garantir que a IA entenda sua intenção.
+- **Exemplo**: ``` Após o último verso, aumentar o ritmo com um solo de guitarra rápida. ```
+
 ### **3. Dicas Adicionais para Criação Musical no Suno** 
 Aqui estão algumas informações e dicas gerais sobre a criação musical com a ferramenta Suno:
 #### **3.1 Definir o Gênero e o Estilo** 
@@ -69,8 +69,13 @@ Aqui estão algumas informações e dicas gerais sobre a criação musical com a
 #### **3.4 Estrutura da Música** 
 - Se a estrutura da música é importante, como refrão, versos, pontes, instrua a IA sobre isso. 
 - Exemplo: “A música deve seguir a estrutura padrão: verso, refrão, verso, refrão, ponte, refrão final.”
---- 
+
 ### **4. Recomendações Gerais**
 -**Seja Claro e Específico**: Quanto mais detalhado você for nas instruções, maior será a chance de a IA criar algo próximo ao que você imagina.
 -**Use Feedback Iterativo**: Faça ajustes após a criação inicial, caso algo não saia como esperado. Você pode refinar as instruções para obter melhores resultados.
 -**Explore as Possibilidades**: Teste diferentes combinações de marcadores para ver como a IA responde a estilos e variações criativas. 
+
+
+
+
+
